@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Developer, Teacher & Dad
 ----------------------------------
 
-I've been working with Microsoft Technologies for over 19 years, I'm specialized in Windows Forms, ASP.NET MVC, Blazor, Razor Pages, and Web API Backend with C# and I'm constantly learning new technologies to be applied in my classes and on my personal projects.
+I've been working with Microsoft Technologies for over 19 years, I'm specialized in Windows Forms, ASP.NET MVC, Blazor, Razor Pages, and Web API Backend with C# and I'm constantly learning new technologies to be applied in my classes and on my own personal projects.
 
 * 🌍  I'm based in Iquitos, Peru
 * ✉️  You can contact me at [erickorlando@live.com.pe](mailto:erickorlando@live.com.pe)
