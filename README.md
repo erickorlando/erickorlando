@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Developer, Teacher & Dad
 ----------------------------------
 
-I've been working with Microsoft Technologies for over 20 years, I specialize in ASP.NET MVC, Blazor, Razor Pages, Windows Desktop, Angular, and Web API Backend with C# and I'm constantly learning new technologies to be applied in my classes and on my own personal projects.
+I have over 20 years of experience working with Microsoft technologies, specializing in Blazor, ASP.NET MVC, Razor Pages, Windows Desktop, Angular, and Web API Backend with C#. I am continually learning new technologies to enhance my classes and personal projects.
 
 * 🌍  I'm based in Piura, Peru.
 * ✉️  You can contact me at [erickorlando@live.com.pe](mailto:erickorlando@live.com.pe)
-* 🚀  I'm currently working on [MitoCode](http://mitocode.com)
-* 🧠  I'm learning Kubernetes, React and MAUI
+* 🚀  I'm currently working on [Galaxy Training Peru](https://galaxy.edu.pe)
+* 🧠  I'm learning Kotlin, AWS, and AI Development
 * 🤝  I'm open to collaborating on .NET Projects, Windows Desktop, Angular, and Linux-based projects with C#
 * ⚡  I'm the creator of Cafe con Programacion podcast (Spanish)
 
