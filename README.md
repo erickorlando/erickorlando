@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Erick Orlando
 =====================================================================================================================================
 
-FullStack Developer, Teacher & Dad
-----------------------------------
+🚀 **Software Developer | .NET Specialist | Tech Educator**  
 
-I have over 20 years of experience working with Microsoft technologies, specializing in Blazor, ASP.NET MVC, Razor Pages, Windows Desktop, Angular, and Web API Backend with C#. I am continually learning new technologies to enhance my classes and personal projects.
+I am a software developer with over 21 years of experience working with Microsoft technologies, specializing in **Blazor, ASP.NET MVC, Razor Pages, Windows Desktop, Angular, and Web API development with C#**. I am passionate about learning and integrating new technologies into my work, constantly improving my projects and training sessions.  
 
-* 🌍  I'm based in Piura, Peru.
-* ✉️  You can contact me at [erickorlando@live.com.pe](mailto:erickorlando@live.com.pe)
-* 🚀  I'm currently working on [Galaxy Training Peru](https://galaxy.edu.pe)
-* 🧠  I'm learning Kotlin, AWS, and AI Development
-* 🤝  I'm open to collaborating on .NET Projects, Windows Desktop, Angular, and Linux-based projects with C#
-* ⚡  I'm the creator of Cafe con Programacion podcast (Spanish)
+### 🌟 About Me  
+- 🌍 Based in **Iquitos, Peru**  
+- ✉️ Reach me at [erickorlando@live.com.pe](mailto:erickorlando@live.com.pe)  
+- 🚀 Currently working at [Galaxy Training Peru](https://galaxy.edu.pe)  
+- 🧠 Exploring **Kotlin, AWS, and AI Development**  
+- 🤝 Open to collaboration on **.NET projects, Windows Desktop, Angular, and Linux-based applications with C#**  
+- 🎙️ Creator of **Café con Programación**, a Spanish-language tech podcast  
 
 <a href="https://www.github.com/erickorlando" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/erickorlando?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/evelascom" target="_blank" rel="noreferrer"><img
