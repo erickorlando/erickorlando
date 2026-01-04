@@ -4,7 +4,7 @@
   <h3>🚀 Senior Software Architect | .NET Ecosystem Expert | Tech Mentor</h3>
 
   <p align="center">
-    With over <b>21 years of experience</b> in the software industry, I specialize in architecting robust solutions using the Microsoft stack. My focus lies in bridging the gap between legacy systems and modern tech, mastering <b>Blazor, ASP.NET MVC, and Angular</b> to build scalable Web APIs and desktop applications.
+    With over <b>22 years of experience</b> in the software industry, I specialize in architecting robust solutions using the Microsoft stack. My focus lies in bridging the gap between legacy systems and modern tech, mastering <b>Blazor, ASP.NET MVC, and Angular</b> to build scalable Web APIs and desktop applications.
     <br><br>
     👨‍🏫 <b>As a Tech Educator:</b> I am passionate about decoding complex concepts and training the next generation of developers through hands-on sessions.
   </p>
@@ -52,7 +52,7 @@ Recently, I challenged myself to move away from Windows-only environments. I now
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" width="40" height="40" alt="Bash" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="40" height="40" alt="Bash" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" />
@@ -87,12 +87,6 @@ Recently, I challenged myself to move away from Windows-only environments. I now
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <a href="http://www.github.com/erickorlando">
-    <img src="https://github-readme-stats.vercel.app/api?username=erickorlando&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="erickorlando's GitHub stats" />
-  </a>
-</p>
 
 <p align="center">
   <a href="http://www.github.com/erickorlando">
